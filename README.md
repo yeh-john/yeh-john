@@ -6,7 +6,7 @@
 </p>
 
 ### My skills 🌱
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,py,php,powershell,bash,selenium,webpack,ipfs,vscode,git,github,linux,heroku,sql,nginx,wordpress,raspberrypi&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,py,php,powershell,bash,selenium,webpack,mysql,ipfs,vscode,git,github,linux,heroku,nginx,wordpress,raspberrypi&theme=dark)](https://skillicons.dev)
 
 <!--
 yeh-john is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
